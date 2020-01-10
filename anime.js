@@ -33,4 +33,4 @@ boxNode.setAttribute('id', animeID);
 containerNode.appendChild(boxNode); // Append <li> to <ul> with id="myList"
 
 
-alert(document.body.innerHTML);
+// alert(document.body.innerHTML);
